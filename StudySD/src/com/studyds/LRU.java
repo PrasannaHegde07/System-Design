@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class LRU {
 
-	static int memSize = 5;
+	static int memSize = 20;
 	static DoubleNode tailNode = null;
 	static DoubleNode headNode = null;
 
